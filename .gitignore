@@ -13,6 +13,8 @@ ENV/
 env.bak/
 venv.bak/
 
+models
+
 /car_images
 # Node
 node_modules/
